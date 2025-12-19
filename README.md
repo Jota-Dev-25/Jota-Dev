@@ -4,5 +4,5 @@
 We are a company that offers programming solutions and services, as well as high-quality, optimized scripts at very competitive prices in the market
 
 - You can see more information about us here:
-  📎 Web: https://store.jotadev.site/
-  👉Discord: https://discord.com/invite/EDuZKM7Zuv
+📎 Web: https://store.jotadev.site/
+👉Discord: https://discord.com/invite/EDuZKM7Zuv
